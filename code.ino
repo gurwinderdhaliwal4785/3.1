@@ -8,9 +8,9 @@
 #define DHTTYPE DHT11
 
 // WiFi credentials and ThingSpeak API key
-#define SECRET_SSID "@prabh"
+#define SECRET_SSID "@gurwinder"
 #define SECRET_PASS "0987654321"
-#define SECRET_API_KEY "47JFWCVHFQZCQ8QU"
+#define SECRET_API_KEY "47JFWCVHFQZAS9QU"
 
 // Initialize the DHT sensor
 DHT dht(DHTPIN, DHTTYPE);
